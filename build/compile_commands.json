@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/media/taras/Kurs/Курси/CppSystem Developer/portfolio/project/build",
-  "command": "/usr/bin/c++   -g -std=c++20 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -g -o CMakeFiles/MyProject.dir/src/main.cpp.o -c \"/media/taras/Kurs/Курси/CppSystem Developer/portfolio/project/src/main.cpp\"",
-  "file": "/media/taras/Kurs/Курси/CppSystem Developer/portfolio/project/src/main.cpp",
-  "output": "CMakeFiles/MyProject.dir/src/main.cpp.o"
-}
-]
